@@ -7,6 +7,7 @@
 3. 转译 jsx
 
 #### 3. 渲染虚拟 DOM
+<img src="../img/miao2.jpg"  width="50" height="50" />
 
 #### 4.  算法
 1. diff 算法的进化
